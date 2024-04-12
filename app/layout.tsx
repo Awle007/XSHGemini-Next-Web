@@ -10,8 +10,8 @@ import { GoogleTagManager } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "XSH云AI",
-  description: "Powerd By XSH",
+  title: "XSH云Gemini",
+  description: "Powerd By XSH云",
   viewport: {
     width: "device-width",
     initialScale: 1,
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     { media: "(prefers-color-scheme: dark)", color: "#151515" },
   ],
   appleWebApp: {
-    title: "XSH云AI",
+    title: "XSH云Gemini",
     statusBarStyle: "default",
   },
 };
