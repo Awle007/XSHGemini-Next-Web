@@ -389,3 +389,5 @@ If you want to add a new translation, read this [document](./docs/translation.md
 ## LICENSE
 
 [MIT](https://opensource.org/license/mit/)
+#   X S H G e m i n i - N e x t - W e b  
+ 
